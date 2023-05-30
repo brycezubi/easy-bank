@@ -26,7 +26,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Easybank landing page coding challenge](https://github.com/brycezubi/time-tracking-dahsboard/blob/main/public/design/desktop-preview.jpg)
+![Design preview for the Easybank landing page coding challenge](https://github.com/brycezubi/easy-bank/blob/main/public/design/desktop-preview.jpg)
 
 ### Links
 
